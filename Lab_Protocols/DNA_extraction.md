@@ -20,7 +20,7 @@
 *	This protocol was used to extract DNA from forzen tissue of the Alta-Floresta Titi Monkey by Romina Batista 
 
 
-*	Romina Batista  extracted DNA at the Genomic Laboratory at the [University of Salfort](https://www.salford.ac.uk/), Salford, Uinted Kingdom.
+*	Romina Batista  extracted DNA at the Genomic Laboratory at the [University of Salfort](https://www.salford.ac.uk/), Salford, United Kingdom.
 
 *	Romina Batista built this repository.
 
