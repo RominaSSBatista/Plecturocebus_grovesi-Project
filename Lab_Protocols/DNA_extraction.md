@@ -1,4 +1,4 @@
-DNA Extraction for High-Molecular-Weight DNA for Long-Read Sequencing
+DNA Extraction for High-Molecular-Weight (HMW) DNA for Long-Read Sequencing
 ==========================================
 
 :Author: Romina Batista (University of Salford ([UoS](https://hub.salford.ac.uk/rotcotm/)))
@@ -6,7 +6,7 @@ DNA Extraction for High-Molecular-Weight DNA for Long-Read Sequencing
 
 Purpose
 -------
-... working in progress ... :soon:
+#. Extract HMW DNA from frozen tissue (>10 years old)
 
 
 Preparation
