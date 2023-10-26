@@ -33,4 +33,6 @@ Equipment
 Preparation
 -----------
 
+For this protocol, you will need 1 μg (or 100–200 fmol) of DNA.
+
 
