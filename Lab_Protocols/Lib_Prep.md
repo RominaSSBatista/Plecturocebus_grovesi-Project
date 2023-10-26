@@ -1,7 +1,7 @@
 Library Preparation (Oxford Nanopore Technology - ONT)
 ==========================================
 
-:information_source: **Author:** Romina Batista ([University of Salford - UoS](https://hub.salford.ac.uk/rotcotm/)))
+:information_source: **Author:** Romina Batista ([University of Salford - UoS](https://hub.salford.ac.uk/rotcotm/))
 
 
 Purpose
