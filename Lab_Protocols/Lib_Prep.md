@@ -1,7 +1,7 @@
 Library Preparation (Oxford Nanopore Technology - ONT)
 ==========================================
 
-:Author: Romina Batista
+:information_source: **Author:** Romina Batista
 
 
 Purpose
