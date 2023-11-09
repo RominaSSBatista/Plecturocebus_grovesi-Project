@@ -40,7 +40,7 @@ Quality Control using TapeStation & Qubit
 -----------
 
 
-| Library	    | TapeStation (Fragment Size)  | Qubit 	(ng/ul)	|
+| **Library**	    | **TapeStation (Fragment Size)**  | **Qubit 	(ng/ul)**	|
 | ------------- | ------------- | ------------- |
 | Lib1  	    | xxxx  | aaa  |
 | Lib2 		    | yyyy  | bbb  |
