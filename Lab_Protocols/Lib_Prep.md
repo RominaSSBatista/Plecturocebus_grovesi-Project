@@ -7,7 +7,7 @@ Library Preparation (Oxford Nanopore Technology - ONT)
 Purpose
 -------
 
-The purpose of this protocol is simply document library preparation and preapation for ONT sequencing using the Ligation Sequencing Kit V14 (SQK-LSK114) protocol. We document Equipaments used that were available at the Genomic Lab at the University of Salford. 
+The purpose of this protocol is to document library preparation and preapation for ONT sequencing using the Ligation Sequencing Kit V14 (SQK-LSK114) protocol. We document Equipaments used that were available at the Genomic Lab at the University of Salford. 
 
 
 Equipment
@@ -34,5 +34,22 @@ Preparation
 -----------
 
 For this protocol, you will need 1 μg (or 100–200 fmol) of DNA.
+
+
+Quality Control using TapeStation & Qubit
+-----------
+
+
+| Library	    | TapeStation (Fragment Size)  | Qubit 	(ng/ul)	|
+| ------------- | ------------- | ------------- |
+| Lib1  	    | xxxx  | aaa  |
+| Lib2 		    | yyyy  | bbb  |
+| Lib2  		| zzzz  | ccc  |
+
+
+Calculating Library to be load
+-----------
+
+Calculation using ([NEBioCalculator])(https://nebiocalculator.neb.com/#!/dsdnaamt)
 
 
